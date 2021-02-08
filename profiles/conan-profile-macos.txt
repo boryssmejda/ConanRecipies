@@ -1,0 +1,5 @@
+[settings]
+os=Macos
+arch=x86_64
+compiler=apple-clang
+compiler.libcxx=libc++
